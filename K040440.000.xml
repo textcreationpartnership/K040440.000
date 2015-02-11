@@ -2482,9 +2482,26 @@ working with oxen, I have improved the land so as to be able to let it at 10
 <hi>s.</hi> per acre; but I must observe, that had it been titheable, the tithe
 alone would have utterly precluded my efforts, for the value of the tithe would
 often have been more than my profit.</p>
-               <figure>
-                  <figDesc>plan of agricultural inclosures</figDesc>
-               </figure>
+               <p>In making my subdivisions, I divided them into 10 inclosures as
+nearly as possible, and the year preceding the planting quick wood, or white
+thorns, I prepared the ground, where the fences were intended, by frequent
+ploughings, and planted pota<g ref="char:EOLhyphen"/>toes. In the autumn, after these were gathered, I
+made a ditch, breasted the caw with stones, and planted the wood behind the
+caw, taking care to have the ditch on the higher side of the fence, so as to
+intercept the water before it reaches the roots of my quick-wood; and as warmth
+and shelter are desirable attainments in all high exposed situations, within my
+fences I make a border plantation about 20 feet wide, fence this off with
+quick-wood, and also fill my subdivision fences with forest trees most adapted
+to the soil. For though these may ultimately prove injurious both to the fences
+and the land, yet when that begins to be the case, they are easily taken down,
+and serve for stakes and bindings, when the hedges require cutting. As water is
+not always to be had in every situation where it is wanted, I make a square, or
+round pond, where the fences intersect one another, so as to make one pond
+serve to supply four closes, thus: 
+<figure>
+                     <figDesc>plan of agricultural inclosures</figDesc>
+                  </figure>
+               </p>
                <p>By this means, I can either plough or pasture any close without
 inconvenience, and if the strata be ever so open or porous, yet other ponds are
 easily made retentive, by digging them deep, then laying a covering of lime, or
@@ -3406,97 +3423,99 @@ done by two.</p>
                   <pb n="98" facs="tcp:0342301000:96"/> The dimensions and construction of the
 plough will appear sufficiently evident from the following drawing and
 description.</p>
-               <figure>
-                  <figDesc>diagram of the Rotherham plough</figDesc>
-                  <head>DIMENSIONS OF THE ROTHERAM PLOUGH.</head>
-                  <p> 
-                     <table>
-                        <row>
-                           <cell role="label"> </cell>
-                           <cell role="label">ft.</cell>
-                           <cell role="label">in.</cell>
-                           <cell> </cell>
-                        </row>
-                        <row>
-                           <cell>From the end of stilt B<hi rend="sup">
-                                 <hi>b</hi>
-                              </hi> to point of the
+               <p> 
+                  <figure>
+                     <figDesc>diagram of the Rotherham plough</figDesc>
+                     <head>DIMENSIONS OF THE ROTHERAM PLOUGH.</head>
+                     <p> 
+                        <table>
+                           <row>
+                              <cell role="label"> </cell>
+                              <cell role="label">ft.</cell>
+                              <cell role="label">in.</cell>
+                              <cell> </cell>
+                           </row>
+                           <row>
+                              <cell>From the end of stilt B<hi rend="sup">
+                                    <hi>b</hi>
+                                 </hi> to point of the
 Share C</cell>
-                           <cell>7</cell>
-                           <cell>4</cell>
-                           <cell rows="2">whole length.</cell>
-                        </row>
-                        <row>
-                           <cell>From the end of beam A<hi rend="sup">
-                                 <hi>a</hi>
-                              </hi> to ditto of ditto
+                              <cell>7</cell>
+                              <cell>4</cell>
+                              <cell rows="2">whole length.</cell>
+                           </row>
+                           <row>
+                              <cell>From the end of beam A<hi rend="sup">
+                                    <hi>a</hi>
+                                 </hi> to ditto of ditto
 C</cell>
-                           <cell>3</cell>
-                           <cell>0</cell>
-                        </row>
-                        <row>
-                           <cell>Length of the beam A A</cell>
-                           <cell>6</cell>
-                           <cell>0</cell>
-                           <cell> </cell>
-                        </row>
-                        <row>
-                           <cell>Width of the head in the widest part D</cell>
-                           <cell>1</cell>
-                           <cell>4</cell>
-                           <cell> </cell>
-                        </row>
-                        <row>
-                           <cell>Ditto of ditto at E</cell>
-                           <cell>0</cell>
-                           <cell>9</cell>
-                           <cell rows="3">bottom work<g ref="char:EOLhyphen"/>ing surface.</cell>
-                        </row>
-                        <row>
-                           <cell>Ditto of share behind the wing at <hi>f</hi>
-                           </cell>
-                           <cell>0</cell>
-                           <cell>3½</cell>
-                        </row>
-                        <row>
-                           <cell>Length of surface on which the plough touches the
+                              <cell>3</cell>
+                              <cell>0</cell>
+                           </row>
+                           <row>
+                              <cell>Length of the beam A A</cell>
+                              <cell>6</cell>
+                              <cell>0</cell>
+                              <cell> </cell>
+                           </row>
+                           <row>
+                              <cell>Width of the head in the widest part D</cell>
+                              <cell>1</cell>
+                              <cell>4</cell>
+                              <cell> </cell>
+                           </row>
+                           <row>
+                              <cell>Ditto of ditto at E</cell>
+                              <cell>0</cell>
+                              <cell>9</cell>
+                              <cell rows="3">bottom work<g ref="char:EOLhyphen"/>ing surface.</cell>
+                           </row>
+                           <row>
+                              <cell>Ditto of share behind the wing at <hi>f</hi>
+                              </cell>
+                              <cell>0</cell>
+                              <cell>3½</cell>
+                           </row>
+                           <row>
+                              <cell>Length of surface on which the plough touches the
 ground E C</cell>
-                           <cell>2</cell>
-                           <cell>10½</cell>
-                        </row>
-                        <row>
-                           <cell>Height from ground to top of beam where coulter goes
+                              <cell>2</cell>
+                              <cell>10½</cell>
+                           </row>
+                           <row>
+                              <cell>Height from ground to top of beam where coulter goes
 through</cell>
-                           <cell>1</cell>
-                           <cell>8</cell>
-                           <cell> </cell>
-                        </row>
-                        <row>
-                           <cell>Width between stilts at the end B B</cell>
-                           <cell>2</cell>
-                           <cell>6</cell>
-                           <cell> </cell>
-                        </row>
-                        <row>
-                           <cell>Height of ditto from the ground</cell>
-                           <cell>2</cell>
-                           <cell>11</cell>
-                           <cell> </cell>
-                        </row>
-                        <row>
-                           <cell>Weight of wood and iron work, about 1¼
+                              <cell>1</cell>
+                              <cell>8</cell>
+                              <cell> </cell>
+                           </row>
+                           <row>
+                              <cell>Width between stilts at the end B B</cell>
+                              <cell>2</cell>
+                              <cell>6</cell>
+                              <cell> </cell>
+                           </row>
+                           <row>
+                              <cell>Height of ditto from the ground</cell>
+                              <cell>2</cell>
+                              <cell>11</cell>
+                              <cell> </cell>
+                           </row>
+                           <row>
+                              <cell>Weight of wood and iron work, about 1¼
 <hi>Cwt.</hi>
-                           </cell>
-                           <cell> </cell>
-                           <cell> </cell>
-                           <cell> </cell>
-                        </row>
-                     </table>
-                  </p>
-                  <p>Hock with teeth, to admit of more land being given to the
+                              </cell>
+                              <cell> </cell>
+                              <cell> </cell>
+                              <cell> </cell>
+                           </row>
+                        </table>
+                     </p>
+                     <p>Hock with teeth, to admit of more land being given to the
 plough, and <hi>vice versa.</hi>
-                  </p>
-               </figure>
+                     </p>
+                  </figure> 
+               </p>
                <p>As for the dimensions of the carts and waggons in general use
 here, they are as follows: 
 <list>
